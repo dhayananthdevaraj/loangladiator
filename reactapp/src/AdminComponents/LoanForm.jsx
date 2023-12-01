@@ -187,5 +187,4 @@ const[successPopup,setSuccessPopup]=useState(false);
 </div>
   );
 };
-
 export default LoanForm;
